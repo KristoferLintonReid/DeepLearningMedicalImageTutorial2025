@@ -39,7 +39,7 @@ Please read the instructions inside the `Exercise.ipynb` carefully!
 |:---------|:--------------|
 | Data Exploration | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KristoferLintonReid/DeepLearningMedicalImageTutorial2025/blob/main/Data_exploration.ipynb) |
 | Building Models | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KristoferLintonReid/DeepLearningMedicalImageTutorial2025/blob/main/Building_Models.ipynb) |
-| Exercise | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KristoferLintonReid/DeepLearningMedicalImageTutorial2025/blob/main/Exercise.ipynb) |
+| Assesment | (https://docs.google.com/forms/d/e/1FAIpQLSc7n8KDsnOYOsfNowyJ2pSs2lr1uT4Mn9P84zK-rcFONKrgvg/viewform) |
 
 
 ## Learning Outcomes
