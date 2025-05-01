@@ -18,7 +18,7 @@ This repository contains all the notebooks and resources needed to complete the 
 |:-----:|:---------|:------------|
 | 1 | [Data_exploration.ipynb](https://colab.research.google.com/github/KristoferLintonReid/DeepLearningMedicalImageTutorial2025/blob/main/Data_exploration.ipynb) | Explore the dataset, visualize examples, understand the data. |
 | 2 | [Building_Models.ipynb](https://colab.research.google.com/github/KristoferLintonReid/DeepLearningMedicalImageTutorial2025/blob/main/Building_Models.ipynb) | Learn about different model building strategies (Radiomics, SimpleCNN, Contrastive models). |
-| 3 | [Exercise.ipynb](https://colab.research.google.com/github/KristoferLintonReid/DeepLearningMedicalImageTutorial2025/blob/main/Exercise.ipynb) | Main graded exercise: choose a model, train it, evaluate it, and answer technical questions. |
+| 3 | [Assesment](https://forms.gle/GCg7dHvZZAe8nrMW8) | Main graded exercise: choose a model, train it, evaluate it, and answer technical questions. |
 
 ---
 
@@ -27,7 +27,7 @@ This repository contains all the notebooks and resources needed to complete the 
 - In the `Exercise.ipynb` notebook, you will:
   - **Pick a model** from the strategies covered (Radiomics, SimpleCNN, Contrastive Learning) or implement your own.
   - **Train the model** on the PathMNIST dataset covered in Data Eploration and Building Models Notebooks.
-  - **Answer technical questions** that and you model implemention code will be used for grading.
+  - **Answer technical questions** your model rational and technical questions will be used for grading.
   
 Please read the instructions inside the `Exercise.ipynb` carefully!
 
@@ -46,7 +46,7 @@ Please read the instructions inside the `Exercise.ipynb` carefully!
 
 By completing this exercise, you will be able to:
 
-    Compare and select appropriate deep learning strategies (SimpleCNN, ResNet, ViT, Contrastive models) based on the problem and dataset characteristics.
+    Compare and select appropriate deep learning strategies (Radiomics, SimpleCNN, Contrastive models) based on the problem and dataset characteristics.
 
     Design and implement a model architecture tailored for medical image analysis.
 
