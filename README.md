@@ -28,9 +28,6 @@ This repository contains all the notebooks and resources needed to complete the 
   - **Pick a model** from the strategies covered (Radiomics, SimpleCNN, Contrastive Learning) or implement your own.
   - **Train the model** on the PathMNIST dataset covered in Data Eploration and Building Models Notebooks.
   - **Answer technical questions** your model rational and technical questions will be used for grading.
-  
-Please read the instructions inside the `Exercise.ipynb` carefully!
-
 ---
 
 ## Open Notebooks Directly in Colab
