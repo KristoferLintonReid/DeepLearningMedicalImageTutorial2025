@@ -24,7 +24,7 @@ This repository contains all the notebooks and resources needed to complete the 
 
 ## Instructions for the Exercise
 
-- In the `Exercise.ipynb` notebook, you will:
+- In the Assesment Google Form you will:
   - **Pick a model** from the strategies covered (Radiomics, SimpleCNN, Contrastive Learning) or implement your own.
   - **Train the model** on the PathMNIST dataset covered in Data Eploration and Building Models Notebooks.
   - **Answer technical questions** your model rational and technical questions will be used for grading.
